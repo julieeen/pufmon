@@ -4,4 +4,4 @@ The PUFMon project aims to secure embedded devices against physical attacks usin
 
 You might want to read the [paper](Docu/Paper.pdf), [talk](/Docu/Talk.pdf) or [thesis](Docu/Thesis.pdf).
 
-The full source can not be published due to legal issues.
+The source cannot be published, please [contact us](mailto:jfietkau@sec.t-labs.tu-berlin.de) if you want to contribute or cooperate.
